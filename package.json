@@ -2,7 +2,7 @@
   "homepage": "http://Paidelk.github.io/Christians-Portfolio",
   "dependencies": {
     "gh-pages": "^6.1.1",
-    "react-router-dom": "^6.2.1",
+    "react-router-dom": "^6.22.1",
     "react-scripts": "^5.0.1"
   },
   "scripts": {
